@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Noome</h1>
-<h3 align="center">Offensive Security Researcher | Bug Bounty Hunter | Malware Analyst</h3>
+<h3 align="center">Offensive Security Researcher | Bug Bounty Hunter </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylenoome&label=Profile%20views&color=0e75b6&style=flat" alt="kylenoome" /> </p>
 
