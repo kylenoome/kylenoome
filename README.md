@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Security Researcher**
 
-- 👨‍💻 All of my projects are available at [https://kylenoome.github.io/portfolio/](https://kylenoome.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at[[]
 
 - 💬 Ask me about **Offensive Security**
 
-- 📫 How to reach me **mrkylenoome@gmail.com**
+- 📫 How to reach me **knoome@proton.me**
 
 - 📄 Know about my experiences [need to do](need to do)
 
